@@ -1,0 +1,41 @@
+5° ANO - NILCÉIA
+
+N°	NOME DO ALUNO	OBSERVAÇÕES
+
+1	André Francisco Bissiati da Silva
+	
+2	Bianca de Oliveira Pedrosa	
+
+3	Cecília Inêz Ramos Ferreira	
+
+4	Heitor Costa Mesquita	
+
+5	Heitor da Silva Barbosa Basílio	
+
+6	Henrique da Silva Valente	
+
+7	Isadora de Souza Pedrosa	
+
+8	João Abner Moreira Meireles	
+
+9	João Arthur Tinte Mesquita Andrade
+	
+10	João Vitor Laviola Mendes	
+
+11	Laura da Silva Coelho	
+
+12	Manuela Maria Silva Lellis	
+
+13	Maria Eduarda Almeida Silva	
+
+14	Maria Victoria de Paula Guimarães Silva	
+
+15	Miguel Karlos Oliveira de Sá	
+
+16	Rhyan Carlos de Oliveira Freitas 	
+
+17	Sara Hadassa Rocha de Souza	
+
+18	John Kennedy Faria de Souza Dias	
+
+19	Cecília Vasconcelos de Oliveira Mazzini	

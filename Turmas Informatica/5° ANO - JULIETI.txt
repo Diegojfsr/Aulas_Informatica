@@ -1,0 +1,38 @@
+5° ANO - JULIETI
+
+N°	NOME DO ALUNO	OBSERVAÇÕES
+
+1	Ana Clara Barbosa Sousa	
+
+2	Ana Vitoria de Souza Felis Pimentel
+	
+3	Anna Laura Costa Vieira	
+
+4	Carlos Eduardo Castro Roza	
+
+5	Elisa Marques Pedrosa de Abreu Azevedo
+	
+6	Hellyara Helena Matias Silva	
+
+7	Hugo Henrique de Assis Silva	
+
+8	João Vitor Fialho Floriano	
+
+9	Juan Luciano de Freitas	
+
+10	Lúcio Henrique da Silva Lopes	
+
+11	Luis Phelipe Alteu	
+
+12	Mariana dos Santos de Lima	
+
+13	Sábila Tayná da Costa Salomé	
+
+14	Wemerson de Oliveira da Cruz Lucas	
+
+15	Manuela Cristina de Oliveira	
+
+16	Kimberlim Vitória de Oliveira Caetano	
+
+
+
