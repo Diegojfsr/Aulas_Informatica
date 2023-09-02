@@ -7,10 +7,10 @@
 <h2> 🎯 Objetivo </h2>
 Os objetivos tecnológicos nas aulas de informática na Educação Infantil priorizam desenvolver nos alunos atitudes corretas no uso do computador, onde os alunos apropriam-se das habilidades tecnológicas básicas e demonstram iniciativa e autonomia no uso do computador como meio de expressão e criatividade.
 
-<h2> 📚 Benefícios do Curso </h2>
+<h2> 📈 Benefícios do Curso </h2>
 O curso prepara a criança para a utilização correta do computador, desde postura (ergonomia), digitação com todos os dedos, até a produção de trabalhos escolares, com edição de imagens e textos e criação de apresentações. A proposta é que a criança aprenda a operar os aplicativos independentemente das suas versões.
 
-<h2 dir="auto"> 🚦 Conteúdo Programático do Curso </h2>
+<h2 dir="auto"> 📚 Conteúdo Programático do Curso </h2>
 <ul dir="auto">
  <li> Treinamento em Digitação. <a href="https://github.com/Diegojfsr/Treinar_Digitacao_Infantil">Acessar</a> </li>
  <li> Criando ilustrações para trabalhos. <a href="https://"> Acessar </a> </li>
@@ -21,7 +21,7 @@ O curso prepara a criança para a utilização correta do computador, desde post
 </ul>
 
 
-<h2 dir="auto"> 🚦 Turmas de Informática </h2>
+<h2 dir="auto"> 📊 Turmas de Informática </h2>
 <ul dir="auto">
  <li> 1° ANO - LECA <a href="https://www.notion.so/diegojfsr/1-ANO-LECA-6012385c77a74743877134f23166f36f">Acessar</a> </li>
  <li> 1° ANO - ROSANE <a href="https://www.notion.so/diegojfsr/1-ANO-ROSANE-6c47de62255f4ee8a14f13182c8cfed2">Acessar</a> </li>
