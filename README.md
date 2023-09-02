@@ -10,6 +10,16 @@ Os objetivos tecnológicos nas aulas de informática na Educação Infantil prio
 <h2> 📚 Benefícios do Curso </h2>
 O curso prepara a criança para a utilização correta do computador, desde postura (ergonomia), digitação com todos os dedos, até a produção de trabalhos escolares, com edição de imagens e textos e criação de apresentações. A proposta é que a criança aprenda a operar os aplicativos independentemente das suas versões.
 
+<h2 dir="auto"> 🚦 Conteúdo Programático do Curso </h2>
+<ul dir="auto">
+ <li> Treinamento em Digitação. <a href="https://github.com/Diegojfsr/Treinar_Digitacao_Infantil">Acessar</a> </li>
+ <li> Criando ilustrações para trabalhos. <a href="https://"> Acessar </a> </li>
+ <li> Produzindo trabalhos escolares no Word.<a href="https://"> Acessar </a> </li>
+ <li> Apresentação de trabalhos com PowerPoint. <a href="https://"> Acessar </a> </li>
+ <li> O Básico de Informática para Crianças. <a href="https://"> Acessar </a> </li>
+ <li> Internet - O uso responsável para crianças. <a href="https://"> Acessar </a> </li>
+</ul>
+
 
 <h2 dir="auto"> 🚦 Turmas de Informática </h2>
 <ul dir="auto">
