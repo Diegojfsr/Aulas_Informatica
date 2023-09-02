@@ -13,11 +13,24 @@ O curso prepara a criança para a utilização correta do computador, desde post
 
 <h2 dir="auto"> 🚦 Turmas de Informática </h2>
 <ul dir="auto">
- <li> Primeiro Ano <a href="https://www.notion.so/diegojfsr/Primeiro-ano-ba2c663c0f8c434aab4ff18a8ee28622">Acessar</a> </li>
- <li> Segundo Ano <a href="https://www.notion.so/diegojfsr/Segundo-ano-3b3a6b7bb0aa468dbef0423a189d574a"> Acessar </a> </li>
- <li> Terceiro Ano <a href="https://www.notion.so/diegojfsr/Terceiro-ano-20cc90e29b414c3aa4883d0e06bf156e"> Acessar </a> </li>
- <li> Quarto Ano <a href="https://www.notion.so/diegojfsr/Quarto-ano-47dcf5f0d62f4b1dbef11ca901b71ea7"> Acessar </a> </li>
- <li> Quinto Ano <a href="https://www.notion.so/diegojfsr/Quinto-ano-a65501df00344745b4708448cda16dd6"> Acessar </a> </li>
+ <li> 1° ANO - LECA <a href="https://">Acessar</a> </li>
+ <li> 1° ANO - ROSANE <a href="https://">Acessar</a> </li>
+ <li> 1° ANO - VALQUÍRIA <a href="https://">Acessar</a> </li>
+ 
+ <li> 2° ANO - MYRIAM <a href="https://">Acessar</a> </li>
+ <li> 2° ANO - JOSEANE <a href="https://">Acessar</a> </li>
+ <li> 2° ANO - VANDA <a href="https://">Acessar</a> </li>
+
+ <li> 3° ANO - RENATA <a href="https://">Acessar</a> </li>
+ <li> 3° ANO - ANA PAULA <a href="https://">Acessar</a> </li>
+ <li> 3° ANO - THALITA <a href="https://">Acessar</a> </li>
+
+ <li> 4° ANO - JULIMAR <a href="https://">Acessar</a> </li>
+ <li> 4° ANO - MARCILENE RAQUEL <a href="https://">Acessar</a> </li>
+ 
+<li> 5° ANO - JULIETI <a href="https://">Acessar</a> </li>
+<li> 5° ANO - MARILENE <a href="https://">Acessar</a> </li>
+<li> 5° ANO - NILCÉIA <a href="https://">Acessar</a> </li>
 
 </ul>
 
