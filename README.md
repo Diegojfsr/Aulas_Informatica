@@ -1,8 +1,8 @@
+<!--
 <h1> Sejam bem-vindos!!!</h1>
-<h3>CONTEÚDO PROGRAMÁTICO EM INFORMÁTICA</h3>
 <h5> Repositório criado para documentar todo o material utilizado durante as aulas de informática básica. </h5> 
-
-
+-->
+<h3>CONTEÚDO PROGRAMÁTICO EM INFORMÁTICA</h3>
 
 <h2> 🎯 Objetivo </h2>
 Os objetivos tecnológicos nas aulas de informática na Educação Infantil priorizam desenvolver nos alunos atitudes corretas no uso do computador, onde os alunos apropriam-se das habilidades tecnológicas básicas e demonstram iniciativa e autonomia no uso do computador como meio de expressão e criatividade.
@@ -23,31 +23,32 @@ O curso prepara a criança para a utilização correta do computador, desde post
 
 <h2 dir="auto"> 📊 Turmas de Informática </h2>
 <ul dir="auto">
- <li> 1° ANO - LECA <a href="https://www.notion.so/diegojfsr/1-ANO-LECA-6012385c77a74743877134f23166f36f">Acessar</a> </li>
- <li> 1° ANO - ROSANE <a href="https://www.notion.so/diegojfsr/1-ANO-ROSANE-6c47de62255f4ee8a14f13182c8cfed2">Acessar</a> </li>
- <li> 1° ANO - VALQUÍRIA <a href="https://www.notion.so/diegojfsr/1-ANO-VALQU-RIA-db5291bc18f14928a8ed009f7aebfccf">Acessar</a> </li>
+ <li> 1° ANO - LECA <a href="https://diegojfsr.notion.site/1-ANO-LECA-e91671f896fa4e0f863811d66016bae9">Acessar</a> </li>
+ <li> 1° ANO - ROSANE <a href="https://diegojfsr.notion.site/1-ANO-ROSANE-5c628e6dc6584384bde82b6329b1ea83">Acessar</a> </li>
+ <li> 1° ANO - VALQUÍRIA <a href="https://diegojfsr.notion.site/1-ANO-VALQU-RIA-e9bf7952a537461fa5830a09743fc97e">Acessar</a> </li>
  
- <li> 2° ANO - MYRIAM <a href="https://www.notion.so/diegojfsr/2-ANO-MYRIAM-4e3c5ffc31ee400fa4f91386324f4941">Acessar</a> </li>
- <li> 2° ANO - JOSEANE <a href="https://www.notion.so/diegojfsr/2-ANO-JOSEANE-84d7dca17f22439da1fdcf92ecf34159">Acessar</a> </li>
- <li> 2° ANO - VANDA <a href="https://www.notion.so/diegojfsr/2-ANO-VANDA-6034c147901f47f1be291b3c25ed9c5a">Acessar</a> </li>
+ <li> 2° ANO - MYRIAM <a href="https://diegojfsr.notion.site/2-ANO-MYRIAM-f42a868447b24781bffff5bed49964e1">Acessar</a> </li>
+ <li> 2° ANO - JOSEANE <a href="https://diegojfsr.notion.site/2-ANO-JOSEANE-6d860dbb52b9473f8393bd8f7650a013">Acessar</a> </li>
+ <li> 2° ANO - VANDA <a href="https://diegojfsr.notion.site/2-ANO-VANDA-d054fb5f65c640a3ae3fd4f8fedbbc4c">Acessar</a> </li>
 
- <li> 3° ANO - RENATA <a href="https://www.notion.so/diegojfsr/3-ANO-RENATA-94cede7b9b0a4f18ab33c36ade4e0f46">Acessar</a> </li>
- <li> 3° ANO - ANA PAULA <a href="https://www.notion.so/diegojfsr/3-ANO-ANA-PAULA-96c1926e6aa740108685d3a838abbb8f">Acessar</a> </li>
- <li> 3° ANO - THALITA <a href="https://www.notion.so/diegojfsr/3-ANO-THALITA-83b18fcf39be4d63ac1cbe95092be11b">Acessar</a> </li>
+ <li> 3° ANO - RENATA <a href="https://diegojfsr.notion.site/3-ANO-RENATA-f768d52c9e7a4b33bb753696857fecef">Acessar</a> </li>
+ <li> 3° ANO - ANA PAULA <a href="https://diegojfsr.notion.site/3-ANO-ANA-PAULA-67f441ad6b8747ffa8ab94ef693da38b">Acessar</a> </li>
+ <li> 3° ANO - THALITA <a href="https://diegojfsr.notion.site/3-ANO-THALITA-f7e52c2772194215bc0d00e556c25b14">Acessar</a> </li>
 
- <li> 4° ANO - JULIMAR <a href="https://www.notion.so/diegojfsr/4-ANO-JULIMAR-81b33d1c3ffc4918826c4cd950dc7d53">Acessar</a> </li>
- <li> 4° ANO - MARCILENE/RAQUEL <a href="https://www.notion.so/diegojfsr/4-ANO-MARCILENE-RAQUEL-42e290f7082442b6b777173f61a21ba5">Acessar</a> </li>
+ <li> 4° ANO - ELENICE <a href="https://diegojfsr.notion.site/4-ANO-ELENICE-05b286e973a44562920c2eb968a6de94">Acessar</a> </li>
+ <li> 4° ANO - MARCILENE <a href="https://diegojfsr.notion.site/4-ANO-MARCILENE-bb40ee3201ea4ce3b9b9a7db9c2f55dc">Acessar</a> </li>
  
-<li> 5° ANO - JULIETI <a href="https://www.notion.so/diegojfsr/5-ANO-JULIETI-6bc4bb3b104a4b15b9f2d047c9c858ee">Acessar</a> </li>
-<li> 5° ANO - MARILENE <a href="https://www.notion.so/diegojfsr/5-ANO-MARILENE-e36b0415a96b4db48bb0e9b327b7f99f">Acessar</a> </li>
-<li> 5° ANO - NILCÉIA <a href="https://www.notion.so/diegojfsr/5-ANO-NILC-IA-9e3aeeaaad164dfcbfdcb977f0f9c1ed">Acessar</a> </li>
+<li> 5° ANO - JULIETI <a href="https://diegojfsr.notion.site/5-ANO-JULIETI-4c09cd9a0d974a4e87d702b7f5001f73">Acessar</a> </li>
+<li> 5° ANO - MARILENE <a href="https://diegojfsr.notion.site/5-ANO-MARILENE-4d032d9c7c3c4ec28763dd70f13d7840">Acessar</a> </li>
+<li> 5° ANO - NILCÉIA <a href="https://diegojfsr.notion.site/5-ANO-NILC-IA-1d64b2331fe04406b150a8fbddcd3c91">Acessar</a> </li>
 
 </ul>
 
 
-
+<!--
 <h2 dir="auto"> 🤝 Contribuindo </h2>
 <p dir="auto">
   Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
   saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
 </p>
+-->
